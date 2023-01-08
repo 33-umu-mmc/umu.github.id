@@ -3,7 +3,7 @@
 <html>
 <head>
  <meta charset=”utf-8”>
- <title>Jono-XITPC-12</title>
+ <title>Umu-XIIMMC-33</title>
  </head>
 <body>
 <h1> Ini website Umu Sofiah XII MMC Nomor Urut 33</h1>
